@@ -10,7 +10,7 @@
 
 ## Tools ##
 - [Nmap](https://nmap.org/)
-- [Metasploit](https://www.metasploit.com/)
+- [Metasploit Framework](https://www.metasploit.com/)
 
 
 
@@ -30,7 +30,6 @@
 
 ### Step 2 ###
 <p align="justify">In step two, you must disable the Windows 7 firewall to access the target system. Without disabling the firewall, the ports required for access will remain closed.</p>
-<p align="justify"></p>
 
 1. Click Control Panel from the search results.
 1. Select System and Security.
@@ -38,7 +37,7 @@
 1. Click the Turn Windows Defender Firewall on or off option.
 1. Click the Turn off Windows Defender Firewall
 
-![Firewall Off](https://github.com/pyaephonehan21/Ethical-Hacking/assets/156397261/2da2842c-b88b-4718-a795-d57290a00010)
+<p align="center"><img src="https://github.com/pyaephonehan21/Ethical-Hacking/assets/156397261/2da2842c-b88b-4718-a795-d57290a00010" width="450px" height="300px"><br>Figure(1) Firewall Off!</p>
 
 
 
